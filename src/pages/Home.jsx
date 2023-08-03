@@ -5,25 +5,25 @@ const Home = () => {
   const posts = [
     {
       id: 1,
-      title: "Lorem ipsum, dolor sit amet consectetur adipisicing elit",
+      title: "Lorem ipsum, dolor sit amet consectetur adipisicing elit0",
       desc: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Repellat commodi sapiente, amet voluptatibus praesentium nulla consectetur nemo voluptate in temporibus! Ea, officia sit modi in sint veritatis necessitatibus! Delectus, rem.",
       img: "https://images.pexels.com/photos/1395958/pexels-photo-1395958.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     },
     {
       id: 2,
-      title: "Lorem ipsum, dolor sit amet consectetur adipisicing elit",
+      title: "Lorem ipsum, dolor sit amet consectetur adipisicing elit1",
       desc: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Repellat commodi sapiente, amet voluptatibus praesentium nulla consectetur nemo voluptate in temporibus! Ea, officia sit modi in sint veritatis necessitatibus! Delectus, rem.",
       img: "https://images.pexels.com/photos/1998630/pexels-photo-1998630.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     },
     {
       id: 3,
-      title: "Lorem ipsum, dolor sit amet consectetur adipisicing elit",
+      title: "Lorem ipsum, dolor sit amet consectetur adipisicing elit2",
       desc: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Repellat commodi sapiente, amet voluptatibus praesentium nulla consectetur nemo voluptate in temporibus! Ea, officia sit modi in sint veritatis necessitatibus! Delectus, rem.",
       img: "https://images.pexels.com/photos/4113834/pexels-photo-4113834.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     },
     {
       id: 4,
-      title: "Lorem ipsum, dolor sit amet consectetur adipisicing elit",
+      title: "Lorem ipsum, dolor sit amet consectetur adipisicing elit3",
       desc: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Repellat commodi sapiente, amet voluptatibus praesentium nulla consectetur nemo voluptate in temporibus! Ea, officia sit modi in sint veritatis necessitatibus! Delectus, rem.",
       img: "https://images.pexels.com/photos/616838/pexels-photo-616838.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     }
